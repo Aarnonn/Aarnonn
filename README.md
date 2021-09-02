@@ -1,4 +1,6 @@
-Hi my name is Aaron and I am trash at coding.
+Hi! I'm Aaron and this is my GitHub profile.
+
+I primarily have experience with Java but I hope to become acquainted with many more languages.
 
 <!--
 **Aarnonn/Aarnonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
