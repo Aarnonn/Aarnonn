@@ -1,10 +1,6 @@
 Hi! I'm Aaron.
 
-I am a CS student at the University of Michigan. I have experience coding with Java, C++, JS, HTML & CSS, and Solidity.
-
-Projects have included an RPG game run on a website, and a cryptocurrency run on the ethereum blockchain.
-
-Feel free to reach out! My email is aarcho@umich.edu
+I study CS and music University of Michigan
 
 <!--
 **Aarnonn/Aarnonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
